@@ -1,0 +1,15 @@
+{
+    "name": "csocquet/liquibase-bundle",
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "Cedric SOCQUET",
+            "email": "cedric.socquet.pro@gmail.com"
+        }
+    ],
+
+    "require": {
+        "php": ">=5.4",
+        "symfony/symfony": "~3.0"
+    }
+}
