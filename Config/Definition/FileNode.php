@@ -5,6 +5,11 @@ namespace Cs\LiquibaseBundle\Config\Definition;
 use Symfony\Component\Config\Definition\Exception\InvalidTypeException;
 use Symfony\Component\Config\Definition\VariableNode;
 
+/**
+ * Configuration File node class
+ *
+ * @author Cedric SOCQUET <cedric.socquet.pro@gmail.com>
+ */
 class FileNode extends VariableNode
 {
     /**

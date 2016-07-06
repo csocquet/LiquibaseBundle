@@ -4,6 +4,11 @@ namespace Cs\LiquibaseBundle\Config\Definition;
 
 use Symfony\Component\Config\Definition\Exception\InvalidTypeException;
 
+/**
+ * Configuration JAR file node class
+ *
+ * @author Cedric SOCQUET <cedric.socquet.pro@gmail.com>
+ */
 class JarFileNode extends FileNode
 {
     /**
